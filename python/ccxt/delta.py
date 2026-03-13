@@ -126,8 +126,8 @@ class delta(Exchange, ImplicitAPI):
                     'private': 'https://testnet-api.delta.exchange',
                 },
                 'api': {
-                    'public': 'https://api.delta.exchange',
-                    'private': 'https://api.delta.exchange',
+                    'public': 'https://api.india.delta.exchange',
+                    'private': 'https://api.india.delta.exchange',
                 },
                 'www': 'https://www.delta.exchange',
                 'doc': [
